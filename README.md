@@ -86,7 +86,7 @@ _"AI의 최신 흐름을 가장 먼저 읽고, 기술을 선도하는 전문가�
 | **Project Manager** | 송건학 | Vision 기반 Generative AI (2D, 3D etc), Agent, LLM, VLA | [LinkedIN](https://www.linkedin.com/in/geonhak-song-09a037165/) |
 | **Member** | 채진영 | KG, LLM, LMM, Agent | [LinkedIN](www.linkedin.com/in/jinyeong-chae419) |
 | **Member** | 이준형 | Image/Video Generation |  [LinkedIN](https://www.linkedin.com/in/jjuun0)  |
-| **Member** | 장준한한 | Vision AI, RL, LLM, Multimodal AI, Efficient Training & Simulation |  [LinkedIN](https://www.linkedin.com/in/junhan-zang-04a3b3142/)  |
+| **Member** | 장준한 | Vision AI, RL, LLM, Multimodal AI, Efficient Training & Simulation |  [LinkedIN](https://www.linkedin.com/in/junhan-zang-04a3b3142/)  |
 | **Member** |  |  |     |
 | **Member** |  |  |     |
 | **Member** |  |  |     |
