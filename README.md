@@ -88,7 +88,7 @@ _"AI의 최신 흐름을 가장 먼저 읽고, 기술을 선도하는 전문가�
 | **Member** | 이준형 | Image/Video Generation |  [LinkedIN](https://www.linkedin.com/in/jjuun0)  |
 | **Member** | 장준한 | Vision AI, RL, LLM, Multimodal AI, Efficient Training & Simulation |  [LinkedIN](https://www.linkedin.com/in/junhan-zang-04a3b3142/)  |
 | **Member** | 박지예 | Vision 기반 Generative AI(2D, 3D), Agent, Multi-modal AI | [LinkedIN](https://www.linkedin.com/in/jiye-park-0b2b912b8/) |
-| **Member** | 윤정우 | Vision 기반 Generative AI(2D, 3D), 6D Pose Estimation, VLA | [LinkedIN](https://www.linkedin.com/in/jungwoo-yoon-airacle/) |
+| **Member** | 윤정우 | Vision 기반 Generative AI(2D, 3D), 3D Reconstruction, 6D Pose Estimation | [LinkedIN](https://www.linkedin.com/in/jungwoo-yoon-airacle/) |
 | **Member** | 허의주 | Computer Vision, Vision AI, Multi-modal AI | [LinkedIN](https://www.linkedin.com/in/euiju-heo) |
 <br>
 
@@ -101,7 +101,7 @@ _"AI의 최신 흐름을 가장 먼저 읽고, 기술을 선도하는 전문가�
 |3| 2025/09/23 | 허의주 || Magical Week | | |
 |4| 2025/09/30 | 박지예 || (1)채진영, <br> (2)허의주 | [25.09_채진영] OpenVision2: A Family of Generative Pretrained Visual Encoders for Multimodal Learning [25.09_허의주] Reinforcement Learning on Pre-Training Data | [OpenVision2](https://ucsc-vlaa.github.io/OpenVision2/) [Huggingface](https://huggingface.co/papers/2509.19249) | 
 |5| 2025/10/07 | 윤정우 || 추석(휴무) | | |
-|6| 2025/10/14 | 장준한 || (1)장준한, <br> (2)윤정우 | [25.10_장준한] Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified Self-Play | [Vision-Zero](https://huggingface.co/papers/2509.25541) |
+|6| 2025/10/14 | 장준한 || (1)장준한, <br> (2)윤정우 | [25.10_장준한] Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified Self-Play [25.10 윤정우] VGGT: Visual Geometry Grounded Transformer | [Vision-Zero](https://huggingface.co/papers/2509.25541) [VGGT-Arxiv](https://arxiv.org/abs/2503.11651) [VGGT-Huggingface](https://huggingface.co/spaces/facebook/vggt) |
 |7| 2025/10/21 | 송건학 || (1)이준형, <br> (2)박지예 | |  |
 |8| 2025/10/28 | 채진영 || Magical Week | |  |
 |9| 2025/11/04 | 허의주 || (1) , <br> (2)  | |  |
@@ -121,7 +121,7 @@ _"AI의 최신 흐름을 가장 먼저 읽고, 기술을 선도하는 전문가�
 | **Member** | 이준형 | Image/Video Generation |  [LinkedIN](https://www.linkedin.com/in/jjuun0)  |
 | **Member** | 장준한 | Vision AI, RL, LLM, Multimodal AI, Efficient Training & Simulation |  [LinkedIN](https://www.linkedin.com/in/junhan-zang-04a3b3142/)  |
 | **Member** | 박지예 | Vision 기반 Generative AI(2D, 3D), Agent, Multi-modal AI | [LinkedIN](https://www.linkedin.com/in/jiye-park-0b2b912b8/) |
-| **Member** | 윤정우 | Vision 기반 Generative AI(2D, 3D), 6D Pose Estimation, VLA | [LinkedIN](https://www.linkedin.com/in/jungwoo-yoon-airacle/) |
+| **Member** | 윤정우 | Vision 기반 Generative AI(2D, 3D), 3D Reconstruction, 6D Pose Estimation | [LinkedIN](https://www.linkedin.com/in/jungwoo-yoon-airacle/) |
 | **Member** | 허의주 | Computer Vision, Vision AI, Multi-modal AI | [LinkedIN](https://www.linkedin.com/in/euiju-heo) |
 <br>
 
