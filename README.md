@@ -102,7 +102,7 @@ _"AI의 최신 흐름을 가장 먼저 읽고, 기술을 선도하는 전문가�
 |4| 2025/09/30 | 박지예 || (1)채진영, <br> (2)허의주 | [25.09_채진영] OpenVision2: A Family of Generative Pretrained Visual Encoders for Multimodal Learning <br> [25.09_허의주] Reinforcement Learning on Pre-Training Data | [OpenVision2](https://ucsc-vlaa.github.io/OpenVision2/) [Huggingface](https://huggingface.co/papers/2509.19249) | 
 |5| 2025/10/07 | 윤정우 || 추석(휴무) | | |
 |6| 2025/10/14 | 장준한 || (1)장준한, <br> (2)윤정우 | [25.10_장준한] Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified Self-Play <br> [25.03 윤정우] VGGT: Visual Geometry Grounded Transformer | [Vision-Zero](https://huggingface.co/papers/2509.25541) |
-|7| 2025/10/21 | 송건학 || (1)이준형, <br> (2)박지예 | [25.09 이준형] Wan-Alpha: High-Quality Text-to-Video Generation with Alpha Channel <br> [25.09 박지예] Visual Representation Alignment for Multimodal Large Language Models |  |
+|7| 2025/10/21 | 송건학 || (1)이준형, <br> (2)박지예 | [25.09 이준형] Wan-Alpha: High-Quality Text-to-Video Generation with Alpha Channel <br> [25.09 박지예] Visual Representation Alignment for Multimodal Large Language Models | [Wan-Alpha](https://arxiv.org/abs/2509.24979) [VIRAL](https://arxiv.org/abs/2509.07979) |
 |8| 2025/10/28 | 채진영 || Magical Week | |  |
 |9| 2025/11/04 | 허의주 || (1) 이준형 , <br> (2)  | |  |
 |10| 2025/11/11 | 이준형 || (1) 채진영, <br> (2) 박지예  | |  |
