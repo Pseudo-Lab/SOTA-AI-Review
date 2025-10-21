@@ -104,7 +104,7 @@ _"AI의 최신 흐름을 가장 먼저 읽고, 기술을 선도하는 전문가�
 |6| 2025/10/14 | 장준한 || (1)장준한, <br> (2)윤정우 | [25.10_장준한] Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified Self-Play [25.10 윤정우] VGGT: Visual Geometry Grounded Transformer | [Vision-Zero](https://huggingface.co/papers/2509.25541) [VGGT-Arxiv](https://arxiv.org/abs/2503.11651) [VGGT-Huggingface](https://huggingface.co/spaces/facebook/vggt) |
 |7| 2025/10/21 | 송건학 || (1)이준형, <br> (2)박지예 | [25.10 이준형] Wan-Alpha: High-Quality Text-to-Video Generation with Alpha Channel | [Wan-Alpha](https://arxiv.org/abs/2509.24979)  |
 |8| 2025/10/28 | 채진영 || Magical Week | |  |
-|9| 2025/11/04 | 허의주 || (1) , <br> (2)  | |  |
+|9| 2025/11/04 | 허의주 || (1) 이준형, <br> (2)  | |  |
 |10| 2025/11/11 | 이준형 || (1) 채진영, <br> (2)  | |  |
 |11| 2025/11/18 | 장준한 || (1) 송건학, <br> (2) 허의주 | |  |
 |12| 2025/11/25 | 윤정우   - 주간 News 정리 모음집 → 투표 월별 Hot Issue list 작성 및 공유
