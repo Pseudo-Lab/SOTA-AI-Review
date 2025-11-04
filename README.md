@@ -104,14 +104,14 @@ _"AI의 최신 흐름을 가장 먼저 읽고, 기술을 선도하는 전문가�
 |6| 2025/10/14 | 장준한 || (1)장준한, <br> (2)윤정우 | [25.10_장준한] Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified Self-Play <br> [25.03 윤정우] VGGT: Visual Geometry Grounded Transformer | [Vision-Zero](https://huggingface.co/papers/2509.25541) |
 |7| 2025/10/21 | 송건학 || (1)이준형, <br> (2)박지예 | [25.09 이준형] Wan-Alpha: High-Quality Text-to-Video Generation with Alpha Channel <br> [25.09 박지예] Visual Representation Alignment for Multimodal Large Language Models | [Wan-Alpha](https://arxiv.org/abs/2509.24979) [VIRAL](https://arxiv.org/abs/2509.07979) |
 |8| 2025/10/28 | 채진영 || Magical Week | |  |
-|9| 2025/11/04 | 허의주 || (1) 이준형 , <br> (2)  | |  |
+|9| 2025/11/04 | 허의주 || (1) 이준형 , <br> (2)  | [25.10 이준형] WithAnyone | [WithAnyone](https://arxiv.org/abs/2510.14975) |
 |10| 2025/11/11 | 이준형 || (1) 채진영, <br> (2) 박지예  | |  |
 |11| 2025/11/18 | 장준한 || (1) 송건학, <br> (2) 허의주 | |  |
 |12| 2025/11/25 | 윤정우 || (1) 장준한, <br> (2) 윤정우 | |  |
 |13| 2025/12/02 | 박지예 || (1) , <br> (2)  | |  |
-|14| 2025/12/09 |  || (1) , <br> (2)  | |  |
+|14| 2025/12/09 | 채진영  || (1) , <br> (2)  | |  |
 |15| 2025/12/16 | || (1) , <br> (2)  | |  |
-|16| 2025/12/23 |  || (1) , <br> (2)  | |  |
+|16| 2025/12/23 | 송건학 || (1) , <br> (2)  | |  |
 <br>
 
 ## Acknowledgement 🙏
