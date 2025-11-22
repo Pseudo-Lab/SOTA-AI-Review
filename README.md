@@ -97,7 +97,7 @@ _"AI의 최신 흐름을 가장 먼저 읽고, 기술을 선도하는 전문가�
 |회차| 날짜 | News 발표자 | News 링크 | 논문 발표자 | 논문 이름 | 
 | --------| -------- | -------- |-------- | ---- | ---- | 
 |1| 2025/09/09 | 송건학 | [0901~0907](https://github.com/Pseudo-Lab/SOTA-AI-Review/blob/main/AI_NEWS/25.09/AI_NEWS(250901_250907)_%EC%86%A1%EA%B1%B4%ED%95%99.pdf)  | | | 
-|2| 2025/09/16 | 이준형 | [0908~0914](AI_NEWS/25.09/AI_NEWS(250908_250914)_이준형.pdf) | (1)송건학 | [25.09 송건학] Sharing is Caring: Efficient LM Post-Training with Collective RL Experience Sharing [Huggingface](https://huggingface.co/papers/2509.08721) [Arxiv](https://arxiv.org/abs/2509.08721) | 
+|2| 2025/09/16 | 이준형 | [0908~0914](AI_NEWS/25.09/AI_NEWS(250908_250914)_이준형.pdf) | (1)송건학 | [25.09 송건학] [Sharing is Caring: Efficient LM Post-Training with Collective RL Experience Sharing](https://arxiv.org/abs/2509.08721) | 
 |3| 2025/09/23 | 허의주 || Magical Week | | |
 |4| 2025/09/30 | 박지예 || (1)채진영, <br> (2)허의주 | [25.09 채진영] OpenVision2: A Family of Generative Pretrained Visual Encoders for Multimodal Learning <br> [25.09_허의주] Reinforcement Learning on Pre-Training Data | [OpenVision2](https://ucsc-vlaa.github.io/OpenVision2/) [Huggingface](https://huggingface.co/papers/2509.19249) | 
 |5| 2025/10/07 | 윤정우 || 추석(휴무) | | 
@@ -106,12 +106,12 @@ _"AI의 최신 흐름을 가장 먼저 읽고, 기술을 선도하는 전문가�
 |8| 2025/10/28 | 채진영 |[1020~1026](https://github.com/Pseudo-Lab/SOTA-AI-Review/blob/main/AI_NEWS/25.10/AI_NEWS(251020_251026)_%E1%84%8E%E1%85%A2%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%BC.pdf)| Magical Week | |  
 |9| 2025/11/04 | 허의주 || (1) 이준형 , <br>   | [25.10 이준형] [WithAnyone](https://arxiv.org/abs/2510.14975) | 
 |10| 2025/11/11 |  || (1) 채진영, <br>   | [25.10 채진영] [Encoder-Decoder or Decoder-Only? Revisiting Encoder-Decoder Large Language Model](https://arxiv.org/abs/2510.26622) |  |
-|11| 2025/11/18 | 장준한 || (1) 박지예, <br> (2) 송건학 | [25.10 박지예] [Agent Learning via Early Experience](https://arxiv.org/pdf/2510.08558) <br> [25.10 송건학] []() |  
+|11| 2025/11/18 | 장준한 || (1) 박지예, <br> (2) 송건학 | [25.10 박지예] [Agent Learning via Early Experience](https://arxiv.org/pdf/2510.08558) <br> [25.10 송건학] [Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models](https://arxiv.org/abs/2510.04618) |  
 |12| 2025/11/25 | 윤정우 || (1) 허의주, <br> (2) 장준한 | |  
 |13| 2025/12/02 | 박지예 || (1) 윤정우, <br> (2)  | |  
 |14| 2025/12/09 | 채진영  || (1) 이준형, <br> (2)  | |  
 |15| 2025/12/16 | 이준형 || (1) 채진영, <br> (2)  | |  
-|16| 2025/12/23 | 송건학 || (1) , <br> (2)  | |  
+|16| 2025/12/23 | 송건학 || (1) 송건학, <br> (2)  | |  
 <br>
 
 ## Acknowledgement 🙏
