@@ -109,7 +109,7 @@ _"AI의 최신 흐름을 가장 먼저 읽고, 기술을 선도하는 전문가�
 |11| 2025/11/18 | 장준한 || (1) 박지예 <br> (2) 송건학 | [25.10 박지예] [Agent Learning via Early Experience](https://arxiv.org/pdf/2510.08558) <br> [25.10 송건학] [Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models](https://arxiv.org/abs/2510.04618) |  
 |12| 2025/11/25 | 윤정우 || (1) 허의주 <br> (2) 장준한 | [25.11 허의주][MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling](https://arxiv.org/abs/2511.11793)<br> [25.11 장준한] [INT v.s. FP: A Comprehensive Study of Fine-Grained Low-bit Quantization Formats](https://arxiv.org/abs/2510.25602) |  
 |13| 2025/12/02 | 박지예 || (1) 윤정우 <br> (2) 허의주 | [25.11 윤정우] <br> [25.11 허의주]  |  
-|14| 2025/12/09 | 채진영  || (1) 이준형 <br> (2)  |  [25.11 이준형]  <br> [25.12 장준한] |  
+|14| 2025/12/09 | 채진영  || (1) 이준형 <br> (2) 장준한 |  [25.11 이준형]  <br> [25.12 장준한] |  
 |15| 2025/12/16 | 이준형 || (1) 채진영 <br> (2) 박지예 | [25.11 채진영] <br> [25.11 박지예] |  
 |16| 2025/12/23 | 송건학 || (1) 송건학 <br> (2)  | [25.11 송건학] <br> [25.11 ] |  
 <br>
