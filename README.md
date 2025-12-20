@@ -110,7 +110,7 @@ _"AI의 최신 흐름을 가장 먼저 읽고, 기술을 선도하는 전문가�
 |12| 2025/11/25 | 윤정우 || (1) 허의주 <br> (2) 장준한 | [25.11 허의주][MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling](https://arxiv.org/abs/2511.11793)<br> [25.11 장준한] [INT v.s. FP: A Comprehensive Study of Fine-Grained Low-bit Quantization Formats](https://arxiv.org/abs/2510.25602) |  
 |13| 2025/12/02 | 박지예 || (1) 윤정우(미수행) <br> (2) 허의주 | [25.11 윤정우] (미수행) <br> [25.11 허의주][ROOT: Robust Orthogonalized Optimizer for Neural Network Training](https://huggingface.co/papers/2511.20626)  |  
 |14| 2025/12/09 | 채진영 || (1) 이준형(미수행) <br> (2) 장준한 |  [25.11 이준형] (미수행) <br> [25.12 장준한][QeRL: Beyond Efficiency -- Quantization-enhanced Reinforcement Learning for LLMs](https://huggingface.co/papers/2510.11696) |  
-|15| 2025/12/16 | 송건학 || (1) 채진영 <br> (2) 박지예 | [25.11 채진영] [Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)](https://arxiv.org/pdf/2510.22954) <br> [25.11 박지예] |  
+|15| 2025/12/16 | 송건학 || (1) 채진영 <br> (2) 박지예 | [25.11 채진영] [Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)](https://arxiv.org/pdf/2510.22954) <br> [25.11 박지예] [TiDAR: Think in Diffusion, Talk in Autoregression](https://huggingface.co/papers/2511.08923)|  
 |16| 2025/12/23 | - || (1) <br> (2)  |  <br>  |  
 <br>
 
